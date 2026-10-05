@@ -1,0 +1,234 @@
+{
+  "checkedOn": "2026-10-05",
+  "business": {
+    "name": "Detailing Б13",
+    "aliases": [
+      "Б13",
+      "База Б13",
+      "B13"
+    ],
+    "city": "Великий Новгород",
+    "sourceURLs": [
+      "https://b13vn.ru/",
+      "https://baza-b13.clients.site/",
+      "https://yandex.com/maps/org/b13/238465169264/",
+      "https://yandex.com/maps/org/b13/238465169264/prices/",
+      "https://2gis.ru/v_novgorod/firm/70000001048387337",
+      "https://2gis.ru/v_novgorod/firm/70000001048387337/tab/prices",
+      "https://vk.com/b13detailing",
+      "https://t.me/s/detailingb13"
+    ],
+    "contacts": {
+      "address": "Базовый переулок, 15, корпус 1",
+      "detailingPhone": "+7 (911) 600-22-29",
+      "washPhone": "+7 (921) 020-98-43",
+      "phoneRolesSource": "https://yandex.com/maps/org/b13/238465169264/",
+      "hours": "Пн–Пт 09:00–22:00; Сб–Вс 10:00–22:00",
+      "hoursSource": "https://yandex.com/maps/org/b13/238465169264/",
+      "hoursNote": "В старом Telegram 2022 указано ежедневно 09–22; ориентир — текущая карточка Яндекс.",
+      "vk": "https://vk.com/b13detailing",
+      "telegramContact": "https://t.me/detailing_b13",
+      "telegramChannel": "https://t.me/detailingb13"
+    },
+    "branding": {
+      "verifiedName": "Detailing Б13 (так назван официальный канал)",
+      "verifiedColor": null,
+      "note": "Фирменная палитра текстовыми источниками не установлена. Цвет шаблона clients.site не доказывает цвет бренда.",
+      "images": "Публичные фото не скачивались: по запросу пользователя нужны сгенерированные изображения."
+    },
+    "services": [
+      {
+        "name": "Трёхфазная детейлинг-мойка",
+        "publishedPrice": "2 500 ₽",
+        "userProvidedPrice": "2 300 ₽",
+        "source": "https://yandex.com/maps/org/b13/238465169264/prices/",
+        "status": "current_card_changed",
+        "description": "Деликатный уход за кузовом.",
+        "note": "2ГИС от 24.04.2025: от 2300."
+      },
+      {
+        "name": "Детейлинг комплекс №1",
+        "publishedPrice": "от 5 500 ₽",
+        "userProvidedPrice": "5 500 ₽",
+        "source": "https://yandex.com/maps/org/b13/238465169264/prices/",
+        "status": "confirmed",
+        "description": "Комплекс ухода за автомобилем.",
+        "note": "Состав пакета в доступном каталоге не расписан; не придумывать включения. 2ГИС2025: от3500."
+      },
+      {
+        "name": "Детейлинг комплекс №2",
+        "publishedPrice": "от 9 500 ₽",
+        "source": "https://yandex.com/maps/org/b13/238465169264/prices/",
+        "status": "confirmed",
+        "description": "Расширенный комплекс ухода.",
+        "note": "Состав требует уточнения; 2ГИС2025: от6500."
+      },
+      {
+        "name": "Химчистка салона",
+        "publishedPrice": "10 000–15 000 ₽: расхождение поля цены и описания",
+        "userProvidedPrice": "10 000–15 000 ₽",
+        "source": "https://yandex.com/maps/org/b13/238465169264/prices/",
+        "status": "internal_price_conflict",
+        "description": "Глубокая очистка интерьера.",
+        "note": "Заголовок15000; текстот10000 и зависимость от размера. В демо показать «от10000, уточняется после осмотра» или запрос стоимости, не фиксировать одинаковую цену для всех."
+      },
+      {
+        "name": "Полировка кузова",
+        "publishedPrice": "лёгкая от 8 500 ₽; восстановительная от 15 000 ₽",
+        "userProvidedPrice": "от 8 000 ₽",
+        "source": "https://yandex.com/maps/org/b13/238465169264/prices/",
+        "status": "internal_price_conflict",
+        "description": "Уход за лакокрасочным покрытием.",
+        "note": "Структурное поле price9000, собственное описание8500/15000; 2ГИС2025от8000."
+      },
+      {
+        "name": "Керамическое покрытие",
+        "publishedPrice": "седан12 500; кроссовер13 500; джип15 500; микроавтобус17 500 ₽",
+        "userProvidedPrice": "от 12 500 ₽",
+        "source": "https://yandex.com/maps/org/b13/238465169264/prices/",
+        "status": "confirmed",
+        "description": "Два слоя защитного состава.",
+        "note": "Два слоя указаны для всех классов. Срок службы и гарантия не подтверждены."
+      },
+      {
+        "name": "Детейлинг моторного отсека",
+        "publishedPrice": "от 2 500 ₽",
+        "userProvidedPrice": "2 300–2 500 ₽",
+        "source": "https://yandex.com/maps/org/b13/238465169264/prices/",
+        "status": "confirmed_with_condition",
+        "description": "Очистка подкапотного пространства.",
+        "note": "В собственной карточке компания заявляет отказ от претензий. Не рекламировать безрисковую мойку или гарантию сохранности электроники. 2ГИС2025:от2300."
+      },
+      {
+        "name": "Антидождь",
+        "publishedPrice": "передняя полусфера от 2 750 ₽; все стёкла от 5 000 ₽",
+        "userProvidedPrice": "от 2 750 ₽",
+        "source": "https://yandex.com/maps/org/b13/238465169264/prices/",
+        "status": "confirmed",
+        "description": "Гидрофобная обработка стёкол.",
+        "note": "Описание указывает срокот6месяцев с зависимостью от эксплуатации; это заявление студии, не универсальная гарантия."
+      },
+      {
+        "name": "Полиуретановая плёнка",
+        "publishedPrice": "от 3 000 ₽",
+        "userProvidedPrice": "элемент от 3 000 ₽",
+        "source": "https://yandex.com/maps/org/b13/238465169264/prices/",
+        "status": "price_confirmed_scope_unknown",
+        "description": "Защита кузова от внешнего воздействия.",
+        "note": "Компания рекомендует осмотр и замер. Размер участка/«за элемент» в текущем тексте не указан; полный кузов за3000 не обещать."
+      },
+      {
+        "name": "Тонировка",
+        "publishedPrice": "боковые от2800; лобовое/заднее от3600; задняя полусфера от6500; атермальное лобовое от4800 ₽",
+        "source": "https://yandex.com/maps/org/b13/238465169264/prices/",
+        "status": "confirmed",
+        "description": "Тонировочные и атермальные плёнки."
+      },
+      {
+        "name": "Оклейка крыши в чёрный глянец",
+        "publishedPrice": "от 14 990 ₽",
+        "source": "https://yandex.com/maps/org/b13/238465169264/prices/",
+        "status": "confirmed",
+        "description": "Стайлинг крыши автомобиля."
+      },
+      {
+        "name": "Шумоизоляция арок",
+        "publishedPrice": "от 20 500 ₽",
+        "source": "https://yandex.com/maps/org/b13/238465169264/prices/",
+        "status": "confirmed",
+        "description": "Дополнительный комфорт в салоне.",
+        "note": "2ГИС2025:от14500."
+      },
+      {
+        "name": "Полировка фар",
+        "publishedPrice": "от 3 500 ₽ за обе",
+        "source": "https://yandex.com/maps/org/b13/238465169264/prices/",
+        "status": "confirmed",
+        "description": "Восстановление внешнего вида оптики."
+      },
+      {
+        "name": "Ремонт и полировка автостёкол",
+        "publishedPrice": "скол от1500; трещина от100 ₽/см; полировка от5000 ₽",
+        "source": "https://yandex.com/maps/org/b13/238465169264/prices/",
+        "status": "confirmed",
+        "description": "Работа с повреждениями стекла."
+      },
+      {
+        "name": "Химическая очистка кузова и дисков",
+        "publishedPrice": "кузов от1500; диски от800 ₽",
+        "source": "https://yandex.com/maps/org/b13/238465169264/prices/",
+        "status": "confirmed",
+        "description": "Удаление сложных загрязнений."
+      },
+      {
+        "name": "Детейлинг уборка",
+        "publishedPrice": "поле8000 ₽; описаниеот6000 ₽",
+        "source": "https://yandex.com/maps/org/b13/238465169264/prices/",
+        "status": "internal_price_conflict",
+        "description": "Уход за внутренними поверхностями.",
+        "note": "Не смешивать с полной химчисткой; состав и стоимость уточняются."
+      },
+      {
+        "name": "Антихром, автовинил, озонирование",
+        "publishedPrice": null,
+        "source": "https://yandex.com/maps/org/b13/238465169264/",
+        "status": "directions_confirmed",
+        "description": "Дополнительные направления студии."
+      }
+    ],
+    "trustClaims": {
+      "since2015": {
+        "status": "user_provided_unverified",
+        "note": "Доступные первичные страницы этого не подтвердили; b13vn.ru блокирует Cloudflare."
+      },
+      "actAndWorkOrder": {
+        "status": "user_provided_unverified",
+        "note": "Публичные примеры актов и заказ-нарядов не найдены."
+      },
+      "fixedEstimate": {
+        "status": "user_provided_unverified",
+        "note": "Фиксация цены договором не подтверждена; тарифы зависят от объёма/размера."
+      },
+      "guarantee": {
+        "status": "terms_unverified",
+        "note": "Сроки и условия гарантии публично не найдены. Не придумывать годы или безусловное покрытие."
+      },
+      "award": {
+        "status": "confirmed_in_current_card",
+        "value": "Хорошее место 2026",
+        "source": "https://yandex.com/maps/org/b13/238465169264/"
+      },
+      "rating": {
+        "status": "dynamic_current_card",
+        "value": 5,
+        "ratings": 277,
+        "reviews": 136,
+        "source": "https://yandex.com/maps/org/b13/238465169264/",
+        "note": "Показывать ссылку на первичную карточку; цифры меняются."
+      }
+    },
+    "factualDifferentiators": [
+      "Два отдельных контакта для студии и комплексной мойки.",
+      "Оклейка, интерьер, защитные покрытия и автостёкла в каталоге одной студии.",
+      "Парковка, Wi-Fi, предварительная запись и подарочные сертификаты указаны в Яндексе.",
+      "Карты, наличные, СБП и банковский перевод указаны в карточке.",
+      "Официальный канал показывает работы с мотоциклами и оклейку зон риска; публикации2022."
+    ],
+    "unknowns": [
+      "Дата обновления Яндекс прайса не опубликована; это состояние каталога на момент проверки, а не обещание будущего тарифа.",
+      "2ГИС прайс2025 расходится с текущим Яндекс; в демо предпочтительны текущие опубликованные ориентиры и уточнение после осмотра.",
+      "Состав комплексных пакетов и точные гарантийные документы неизвестны.",
+      "b13vn.ru недоступен через web и возвращает Cloudflare challenge в curl; обход не предпринимался.",
+      "Реальные клиентские отзывы не переписывать в вымышленные цитаты; достаточно ссылки на карточку."
+    ],
+    "userProvidedAdditionalServices": [
+      "Удаление вмятин без покраски PDR: указано пользователем; отдельное подтверждение в доступных публичных источниках не найдено. Стоимость — по запросу."
+    ]
+  },
+  "images": {
+    "kind": "AI generated editorial illustrations, not B13 work photographs",
+    "tool": "built-in image_gen__imagegen",
+    "prompts": "{\"tool\":\"tools.image_gen__imagegen\",\"mode\":\"built-in\",\"assets\":[{\"filename\":\"hero-graphite.png\",\"prompt\":\"Use case: ads-marketing\\nAsset type: cinematic photorealistic landing page hero photograph, landscape approximately 16:9, full standalone image.\\nPrimary request: A graphite luxury sport coupe in three-quarter front view, photographed from a low camera in a pitch-black cyclorama detailing studio.\\nScene/backdrop: Minimal black detailing environment with a dark glossy floor and very subtle atmosphere.\\nSubject: One elegant unbranded graphite-black sport coupe, crisp realistic bodywork, restrained modern design.\\nComposition/framing: Wide landscape. The car occupies the right 65 percent of the image. Keep the left 35 percent very dark, spacious, and visually quiet for an actual HTML headline to be placed later. Show the entire front and enough of the side with balanced proportions.\\nLighting/mood: Cinematic premium automotive photography. Neutral white strip-light reflections trace the sculpted body. Restrained amber-yellow rim reflections and a subtle amber-yellow floor glow provide the sole colored accent, cohesive with a black-white-yellow detailing brand. Preserve the graphite body; do not make the car yellow or gold.\\nMaterials/textures: Glossy graphite paint, precise glass, realistic metal and tires, elegant reflections.\\nConstraints: Original generated automotive photograph. No typography, text, signage, visible logos, brand badges, watermark, or license plate text. No before/after layout. No people. No neon clutter. No crimson or red accent light.\"},{\"filename\":\"film-ppf.png\",\"prompt\":\"Use case: ads-marketing\\nAsset type: cinematic photorealistic detailing service photograph, landscape approximately 4:3, full standalone image.\\nPrimary request: Realistic close-up of black nitrile-gloved hands carefully laying a transparent paint protection film edge on a graphite front fender near a sleek headlight.\\nScene/backdrop: Clean black detailing studio, softly out of focus.\\nSubject: Two anatomically believable black nitrile-gloved hands applying a subtle, transparent, physically plausible PPF film edge to the car surface. Film stays nearly invisible except for its fine lifted edge and restrained wet sheen.\\nComposition/framing: Editorial macro close-up with clean geometric lines, front fender and headlight forming the composition. Shallow depth of field and finely focused application area.\\nLighting/mood: Premium cinematic photography with beautiful neutral white strip-light reflections on graphite paint and a restrained amber-yellow rim reflection. Same black, graphite, white, and yellow accent palette as a premium detailing brand.\\nMaterials/textures: Glossy graphite bodywork, transparent flexible film, realistic glove folds and surface reflections. The film must look believable rather than thick plastic.\\nConstraints: Original generated photograph. No typography, text, signage, brand logos, watermark, or license plate text. No before/after. No neon clutter. No crimson or red accent light.\"},{\"filename\":\"interior-clean.png\",\"prompt\":\"Use case: ads-marketing\\nAsset type: premium automotive interior editorial photograph, landscape approximately 4:3, full standalone image.\\nPrimary request: A perfectly clean premium black and dark-brown leather cockpit, viewed closely from the open passenger side.\\nScene/backdrop: An elegant unbranded luxury sport coupe interior in a subdued detailing setting.\\nSubject: Sculpted leather seat, steering wheel and precisely finished cockpit surfaces, immaculate and tactile.\\nComposition/framing: Editorial close view from the open passenger door, with the sculpted seat and steering wheel as the clear focal points. Balanced realistic perspective, enough surrounding cockpit to convey craftsmanship.\\nLighting/mood: Elegant soft daylight and neutral white strip lighting reveal leather texture. Very subtle amber-yellow reflected accents connect the image to a black-white-yellow premium detailing brand. Natural clean finish.\\nMaterials/textures: Fine black and dark-brown leather grain, subtle stitching, restrained metallic trim, perfectly clean surfaces.\\nConstraints: Original generated photograph. No visible brand logos, badges, text, typography, signage, screen writing, watermark, or license text. Screens can be dark. No before/after. No people. No neon clutter. No crimson or red accent light.\"}]}"
+  },
+  "logo": "Provided by user"
+}
